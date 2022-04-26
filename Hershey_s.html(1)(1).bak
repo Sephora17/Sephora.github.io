@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Hershey's</title>
+<link rel="shorcut icon" href="logo2.png">
+<link rel="stylesheet" href="estilo.css">
+
+</head>
+	<body>
+		<img src=logo.png width="210" heigth="210">
+<center>
+	<div class="div1">
+		<h1>
+Disfruta el sabor de Hershey's 
+		</h1>
+	</div>
+</center>
+<hr>
+<table class="sin1">
+	<tr>
+		<th class="colores"><A href="Historia.html"><img src=historia2.png width="120" heigth="100"></A>
+		<th class="colores"><A href="Producto.html"><img src=producto2.png width="120" heigth="100"></A>
+		<th class="colores"><A href="Ventas.html"><img src=ventas2.png width="120" heigth="100"></A>
+		<th class="colores"><A href="Contacto.html"><img src=contacto2.png width="120" heigth="100"></A>
+		<th class="colores"><A href="Video.html"><img src=video1.png width="135" heigth="100"></A>
+	</tr>
+</table>
+<hr>
+	<img src=foto7.png width="100%" heigth="50">
+	<img src=foto7.jpg width="100%" heigth="50">
+<br>
+<br>
+<marquee behavior="alternate">
+     <img src=foto8.jpg width="1015" heigth="900">
+	 <img src=foto9.jpg width="1015" heigth="900">
+	 <img src=foto10.jpg width="950" heigth="900">
+	 <img src=foto11.jpg width="570" heigth="500">
+</marquee>
+<br>
+<br>
+	<img src=foto4.jpg width="100%">
+<br> 
+	<img src=foto5.jpg width="100%">
+<br>
+<br>
+<center>
+<A href="Hershey's.html">
+	<img src=derechos.png width="100" heigth="100">
+</A>
+<p><h6>
+	&copy;2022. Derechos reservados
+	<br>
+	Desarrollo por:Gonzazlez Chavez Isaac<br>
+	Matricula:01908699<br>
+	Grupo:605 <br>
+	CoBach Plantel Nueva Tijuana</h6>
+</p>
+</center>
+</font>
+</body>
+</html> 
